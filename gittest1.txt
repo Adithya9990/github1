@@ -1,2 +1,3 @@
 Hi this is gittext1.txt file added by github1
 added 2nd line from github directly
+Added 3rd line from remote
